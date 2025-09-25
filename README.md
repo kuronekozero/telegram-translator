@@ -52,8 +52,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/kuronekozero/telegram-translator.git
+    cd telegram-translator
     ```
 
 2.  **Install Python dependencies:**
@@ -61,7 +61,6 @@ Follow these instructions to get a copy of the project up and running on your lo
     # It's recommended to do this inside a virtual environment
     pip install -r requirements.txt
     ```
-    *(The `requirements.txt` file should contain `telethon`, `requests`, and `python-dotenv`)*
 
 3.  **Configure API Keys**: Open the template `.env` file that comes with the project. Replace the placeholder values with your actual secret keys.
     ```env
