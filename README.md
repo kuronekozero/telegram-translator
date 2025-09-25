@@ -45,7 +45,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 * Python 3.8+
-* Git
 * **Telegram API Credentials**: An `API_ID` and `API_HASH` from [my.telegram.org](https://my.telegram.org).
 * **OpenRouter API Key**: An account and API key from [OpenRouter.ai](https://openrouter.ai/).
 
