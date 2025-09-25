@@ -1,8 +1,3 @@
 {
-  "jolybells": "translatorchannel1",
-  "varlamov_news": "varlamov_newsjp",
-  "black_triangle_tg": "blacktrianglejp",
-  "pro_ai_news": "proaijp",
-  "psonychannel": "psonychanneljp",
-  "dtfbest": "dtfjp"
+  "mainChannel": "translationChannel"
 }
