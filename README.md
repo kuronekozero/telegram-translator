@@ -170,7 +170,7 @@ This project uses the **OpenRouter API**, which gives you access to a wide varie
 
 For the task of simple text translation, you do not need the most powerful and expensive models. The current configuration uses `google/gemma-3-27b-it`.
 
-Based on my personal usage, running this bot **24/7 monitoring 6 active channels costs approximately $0.005 per day, which works out to less than $2 per year**. This makes it an extremely budget-friendly solution.
+Based on my personal usage, running this bot **24/7 monitoring 6 active channels costs approximately $0.005 per day(around 50 to 60 API requests per day), which works out to less than $2 per year**. This makes it an extremely budget-friendly solution.
 
 If you find the translation quality is not sufficient for your needs, you can easily switch to a more powerful model (like GPT-4o or Claude 3 Opus) by changing the `OPENROUTER_MODEL` variable in `main.py`. However, in my experience translating news and articles from English/Russian to Japanese, Gemma-3 is perfectly adequate.
 
