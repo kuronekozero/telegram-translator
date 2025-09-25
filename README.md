@@ -180,11 +180,6 @@ If you find the translation quality is not sufficient for your needs, you can ea
 
 This is a personal project with room for improvement. Here are some thoughts for the future and current limitations.
 
-* **Future Plans**:
-    * Create a web interface or a bot command system for adding/removing channels without restarting the script.
-    * Improve the media handling logic.
-    * Add a "translation mode" setting (e.g., literal, natural, summary).
-
 * **Known Issues**:
     * The main weakness of this project is correctly formatting **embedded links**. Depending on how a source channel formats its posts, links in the translated text can sometimes appear broken or as plain text. The script includes logic to fix the most common formats, but it is not perfect across all channels.
 
