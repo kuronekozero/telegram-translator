@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Session and data files
+*.session
+*.session-journal
+*.db
+*.db-wal
+*.db-shm
+*.log
+
+# Media cache
+media_cache/
