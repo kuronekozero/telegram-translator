@@ -125,7 +125,7 @@ To have the bot start automatically when your computer turns on, you can place a
 ## Configuration
 
 ### API Keys (`.env`)
-The `.env` file is used to store all your secret credentials. This file is included in `.gitignore` and should never be committed to a public repository with your keys inside.
+The `.env` file is used to store all your secret credentials. 
 
 ### Channel Mappings (`channels.json`)
 The `channels.json` file defines the core logic of the bot.
