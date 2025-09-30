@@ -1,5 +1,7 @@
 # Telegram Multi-Channel AI Translator
 
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-yellow?style=flat-square)](https://www.buymeacoffee.com/kur0)  
+
 A Python-based bot that automatically monitors specified public Telegram channels, translates new posts using an AI model via OpenRouter, and forwards them to designated private channels.
 
 This project is primarily designed for language learners who want a consistent stream of reading practice material from topics they find interesting. It is configured out-of-the-box to translate Russian/English text to Japanese (JLPT N3 level), but can be easily adapted for any language pair by changing LLM prompt inside of the main.py file.
