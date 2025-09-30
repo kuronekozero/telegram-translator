@@ -1,6 +1,8 @@
 # Telegram Multi-Channel AI Translator
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-yellow?style=flat-square)](https://www.buymeacoffee.com/kur0)  
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-yellow?style=flat-square)](https://www.buymeacoffee.com/kur0)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-blue?style=flat-square&logo=ko-fi)](https://ko-fi.com/N4N41M2YUG)  
+
 
 A Python-based bot that automatically monitors specified public Telegram channels, translates new posts using an AI model via OpenRouter, and forwards them to designated private channels.
 
