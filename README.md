@@ -8,6 +8,10 @@ A Python-based bot that automatically monitors specified public Telegram channel
 
 This project is primarily designed for language learners who want a consistent stream of reading practice material from topics they find interesting. It is configured out-of-the-box to translate Russian/English text to Japanese (JLPT N3 level), but can be easily adapted for any language pair by changing LLM prompt inside of the main.py file.
 
+<div align="center">
+  <img src="./screenshot.png" alt="Screenshot" width="800"/>
+</div>
+
 ***
 
 ## Table of Contents
